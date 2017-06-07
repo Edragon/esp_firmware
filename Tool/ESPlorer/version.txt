@@ -1,0 +1,3 @@
+ESPlorer v0.2.0-rc2
+Home page http://esp8266.ru/esplorer
+Latest version download http://esp8266.ru/esplorer#download

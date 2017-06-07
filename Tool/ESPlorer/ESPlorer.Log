@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-06-07T11:29:05</date>
+  <millis>1496806145664</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:05</date>
+  <millis>1496806145664</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:05</date>
+  <millis>1496806145680</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets (LUA): loading...</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:05</date>
+  <millis>1496806145680</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets (LUA) load: Success.</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:06</date>
+  <millis>1496806146773</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:06</date>
+  <millis>1496806146820</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>found last saved serial port COM17</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:06</date>
+  <millis>1496806146836</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>found COM19</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:06</date>
+  <millis>1496806146851</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>found COM20</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:06</date>
+  <millis>1496806146867</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>found COM21</message>
+</record>
+<record>
+  <date>2017-06-07T11:29:06</date>
+  <millis>1496806146867</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-06-07T11:31:29</date>
+  <millis>1496806289484</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2017-06-07T11:31:29</date>
+  <millis>1496806289500</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
