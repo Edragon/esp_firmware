@@ -25,14 +25,14 @@ ESP8266_MultiDownload_com_port8:COM7
 ESP8266_MultiDownload_path1#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\ESP_relay\nodemcu\ESP Relay Board\R4\build\output_r4-mc.bin;0x00000;
 ESP8266_MultiDownload_path0#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\ESP_relay\nodemcu\ESP Relay Board\R4\build\output_r4-sg.bin;0x00000;
 ESP8266_MultiDownload_path3#empty;;;
-ESP8266_MultiDownload_path2#selected;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\relay board\arduino\esp_arduino_r1.bin;0x00000;
+ESP8266_MultiDownload_path2#selected;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\relay board\arduino\esp_arduino_compile_r1.1.bin;0x00000;
 ESP8266_MultiDownload_path5#empty;;;
 ESP8266_MultiDownload_path4#empty;;;
 ESP8266_MultiDownload_path6#empty;;;
 ESP8266_MultiDownload_CRYSTAL:1
 ESP8266_MultiDownload_FLASHSIZE:4
 ESP8266_MultiDownload_SPICFGDIS:1
-ESP8266_MultiDownload_SPIMODE:2
+ESP8266_MultiDownload_SPIMODE:0
 ESP8266_MultiDownload_SPISPEED:0
 ESP8266_MultiDownload_SPIAUTOSET:0
 ESP8266_MultiDownload_LOCK_SETTINGS:1
@@ -45,14 +45,14 @@ ESP8266_SPIDownload_path6#empty;;;
 ESP8266_SPIDownload_path4#empty;C:\Users\hechao\Dropbox\ED_work\6-CodeProject\ESPcode\Firmware Default build\nodemcu default\9600_bit_adc_bmp_bme_dht_file_gpio_http_I2c_mqtt_net_node_ow_pwm_spi_timer_u8g_uart_wifi.bin;0x00000;
 ESP8266_SPIDownload_path5#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\ESP_relay\nodemcu\ESP Relay Board\R4\build\output_r4-mc.bin;0x00000;
 ESP8266_SPIDownload_path2#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\AT\v1.3.0.2 AT Firmware.bin;0x00000;
-ESP8266_SPIDownload_path3#selected;E:\VM_XP_share\esp_arduino_r1.bin;0x00000;
+ESP8266_SPIDownload_path3#selected;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\relay board\arduino\esp_arduino_r1_compile.bin;0x00000;
 ESP8266_SPIDownload_path0#empty;C:\Users\hechao\Dropbox\ED_work\6-Project\ESP\ESP Relay Board\firmware\R2_ID control added.bin;0x00000;
 ESP8266_SPIDownload_path1#empty;E:\HE\DL\nodemcu-master-22-modules-2017-01-10-04-15-30-float.bin;0x00000;
 ESP8266_SPIDownload_SPIAUTOSET:0
 ESP8266_SPIDownload_SPISPEED:0
 ESP8266_SPIDownload_FLASHSIZE:4
 ESP8266_SPIDownload_CRYSTAL:1
-ESP8266_SPIDownload_SPIMODE:2
+ESP8266_SPIDownload_SPIMODE:0
 ESP8266_SPIDownload_SPICFGDIS:0
 ESP8266_SPIDownload_LOCK_SETTINGS:0
 ESP8266_SPIDownload_EFUSE_ERR_HALT:1

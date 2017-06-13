@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2017-06-07T11:29:05</date>
-  <millis>1496806145664</millis>
+  <date>2017-06-12T21:07:28</date>
+  <millis>1497272848806</millis>
   <sequence>6</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -13,8 +13,8 @@
   <message>Set new color theme: Success.</message>
 </record>
 <record>
-  <date>2017-06-07T11:29:05</date>
-  <millis>1496806145664</millis>
+  <date>2017-06-12T21:07:28</date>
+  <millis>1497272848821</millis>
   <sequence>7</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -24,8 +24,8 @@
   <message>Load saved settings: DONE.</message>
 </record>
 <record>
-  <date>2017-06-07T11:29:05</date>
-  <millis>1496806145680</millis>
+  <date>2017-06-12T21:07:28</date>
+  <millis>1497272848821</millis>
   <sequence>8</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -35,8 +35,8 @@
   <message>Snippets (LUA): loading...</message>
 </record>
 <record>
-  <date>2017-06-07T11:29:05</date>
-  <millis>1496806145680</millis>
+  <date>2017-06-12T21:07:28</date>
+  <millis>1497272848821</millis>
   <sequence>9</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -46,8 +46,8 @@
   <message>Snippets (LUA) load: Success.</message>
 </record>
 <record>
-  <date>2017-06-07T11:29:06</date>
-  <millis>1496806146773</millis>
+  <date>2017-06-12T21:07:29</date>
+  <millis>1497272849294</millis>
   <sequence>10</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -57,8 +57,8 @@
   <message>Scan system...</message>
 </record>
 <record>
-  <date>2017-06-07T11:29:06</date>
-  <millis>1496806146820</millis>
+  <date>2017-06-12T21:07:29</date>
+  <millis>1497272849294</millis>
   <sequence>11</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
@@ -68,42 +68,9 @@
   <message>found last saved serial port COM17</message>
 </record>
 <record>
-  <date>2017-06-07T11:29:06</date>
-  <millis>1496806146836</millis>
+  <date>2017-06-12T21:07:29</date>
+  <millis>1497272849294</millis>
   <sequence>12</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>13</thread>
-  <message>found COM19</message>
-</record>
-<record>
-  <date>2017-06-07T11:29:06</date>
-  <millis>1496806146851</millis>
-  <sequence>13</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>13</thread>
-  <message>found COM20</message>
-</record>
-<record>
-  <date>2017-06-07T11:29:06</date>
-  <millis>1496806146867</millis>
-  <sequence>14</sequence>
-  <logger>ESPlorer.ESPlorer</logger>
-  <level>INFO</level>
-  <class>ESPlorer.ESPlorer</class>
-  <method>log</method>
-  <thread>13</thread>
-  <message>found COM21</message>
-</record>
-<record>
-  <date>2017-06-07T11:29:06</date>
-  <millis>1496806146867</millis>
-  <sequence>15</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -112,9 +79,2312 @@
   <message>Scan done.</message>
 </record>
 <record>
-  <date>2017-06-07T11:31:29</date>
-  <millis>1496806289484</millis>
+  <date>2017-06-12T21:07:30</date>
+  <millis>1497272850989</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Serial port COM17 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:31</date>
+  <millis>1497272851004</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:31</date>
+  <millis>1497272851004</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open port COM17, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:31</date>
+  <millis>1497272851122</millis>
   <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open port COM17 - Success.</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:31</date>
+  <millis>1497272851200</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:31</date>
+  <millis>1497272851294</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:31</date>
+  <millis>1497272851294</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:40</date>
+  <millis>1497272860099</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:=adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:41</date>
+  <millis>1497272861560</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:=adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:41</date>
+  <millis>1497272861888</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:=adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:07:42</date>
+  <millis>1497272862081</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:=adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:09:20</date>
+  <millis>1497272960432</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:12</date>
+  <millis>1497273012751</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Close port COM17 - Success.</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:40</date>
+  <millis>1497273040446</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Serial port COM17 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:40</date>
+  <millis>1497273040446</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:40</date>
+  <millis>1497273040446</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open port COM17, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:40</date>
+  <millis>1497273040553</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open port COM17 - Success.</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:40</date>
+  <millis>1497273040630</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:40</date>
+  <millis>1497273040880</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:41</date>
+  <millis>1497273041194</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:41</date>
+  <millis>1497273041509</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:41</date>
+  <millis>1497273041821</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:42</date>
+  <millis>1497273042136</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:42</date>
+  <millis>1497273042440</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:42</date>
+  <millis>1497273042752</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:43</date>
+  <millis>1497273043055</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:43</date>
+  <millis>1497273043367</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:43</date>
+  <millis>1497273043680</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:43</date>
+  <millis>1497273043995</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:44</date>
+  <millis>1497273044308</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:10:44</date>
+  <millis>1497273044640</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>25</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:27</date>
+  <millis>1497273087380</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:28</date>
+  <millis>1497273088104</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:28</date>
+  <millis>1497273088307</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:28</date>
+  <millis>1497273088505</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:30</date>
+  <millis>1497273090423</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:adc.read()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:44</date>
+  <millis>1497273104567</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:val = adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:48</date>
+  <millis>1497273108419</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print val&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:11:52</date>
+  <millis>1497273112679</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print (val)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:23:07</date>
+  <millis>1497273787961</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>jssc.SerialPortException: Port name - COM17; Method name - setEventsMask(); Exception type - Can't set mask.</message>
+</record>
+<record>
+  <date>2017-06-12T21:23:07</date>
+  <millis>1497273787961</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Close port COM17 - unknown error.</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:35</date>
+  <millis>1497274415840</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Serial port COM17 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:35</date>
+  <millis>1497274415855</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:35</date>
+  <millis>1497274415855</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open port COM17, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:35</date>
+  <millis>1497274415952</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open port COM17 - Success.</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:36</date>
+  <millis>1497274416015</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:36</date>
+  <millis>1497274416283</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:36</date>
+  <millis>1497274416594</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:36</date>
+  <millis>1497274416907</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:37</date>
+  <millis>1497274417207</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:37</date>
+  <millis>1497274417520</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:37</date>
+  <millis>1497274417832</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:38</date>
+  <millis>1497274418145</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:38</date>
+  <millis>1497274418455</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:33:38</date>
+  <millis>1497274418642</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2017-06-12T21:34:13</date>
+  <millis>1497274453258</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:val = adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:34:15</date>
+  <millis>1497274455941</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print (val)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:34:18</date>
+  <millis>1497274458391</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print (val)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:35:50</date>
+  <millis>1497274550894</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print (val)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:35:51</date>
+  <millis>1497274551432</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print (val)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:35:51</date>
+  <millis>1497274551829</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print (val)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:35:52</date>
+  <millis>1497274552062</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print (val)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:38:58</date>
+  <millis>1497274738228</millis>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print( adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:38:58</date>
+  <millis>1497274738840</millis>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print( adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:38:59</date>
+  <millis>1497274739062</millis>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print( adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:38:59</date>
+  <millis>1497274739917</millis>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print( adc.read(0)&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:04</date>
+  <millis>1497274744948</millis>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:06</date>
+  <millis>1497274746500</millis>
+  <sequence>80</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:06</date>
+  <millis>1497274746875</millis>
+  <sequence>81</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:07</date>
+  <millis>1497274747143</millis>
+  <sequence>82</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:07</date>
+  <millis>1497274747430</millis>
+  <sequence>83</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:07</date>
+  <millis>1497274747857</millis>
+  <sequence>84</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:08</date>
+  <millis>1497274748158</millis>
+  <sequence>85</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:08</date>
+  <millis>1497274748547</millis>
+  <sequence>86</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:08</date>
+  <millis>1497274748814</millis>
+  <sequence>87</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:09</date>
+  <millis>1497274749069</millis>
+  <sequence>88</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:09</date>
+  <millis>1497274749335</millis>
+  <sequence>89</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:09</date>
+  <millis>1497274749601</millis>
+  <sequence>90</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:09</date>
+  <millis>1497274749835</millis>
+  <sequence>91</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:10</date>
+  <millis>1497274750516</millis>
+  <sequence>92</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:11</date>
+  <millis>1497274751310</millis>
+  <sequence>93</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:11</date>
+  <millis>1497274751766</millis>
+  <sequence>94</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:11</date>
+  <millis>1497274751954</millis>
+  <sequence>95</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:12</date>
+  <millis>1497274752141</millis>
+  <sequence>96</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:12</date>
+  <millis>1497274752329</millis>
+  <sequence>97</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:12</date>
+  <millis>1497274752516</millis>
+  <sequence>98</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:12</date>
+  <millis>1497274752797</millis>
+  <sequence>99</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:14</date>
+  <millis>1497274754187</millis>
+  <sequence>100</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:14</date>
+  <millis>1497274754375</millis>
+  <sequence>101</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:14</date>
+  <millis>1497274754593</millis>
+  <sequence>102</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:14</date>
+  <millis>1497274754796</millis>
+  <sequence>103</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:15</date>
+  <millis>1497274755020</millis>
+  <sequence>104</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:15</date>
+  <millis>1497274755255</millis>
+  <sequence>105</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:15</date>
+  <millis>1497274755474</millis>
+  <sequence>106</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:15</date>
+  <millis>1497274755677</millis>
+  <sequence>107</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:15</date>
+  <millis>1497274755864</millis>
+  <sequence>108</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:16</date>
+  <millis>1497274756102</millis>
+  <sequence>109</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:16</date>
+  <millis>1497274756289</millis>
+  <sequence>110</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:16</date>
+  <millis>1497274756484</millis>
+  <sequence>111</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:16</date>
+  <millis>1497274756687</millis>
+  <sequence>112</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:16</date>
+  <millis>1497274756864</millis>
+  <sequence>113</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:17</date>
+  <millis>1497274757098</millis>
+  <sequence>114</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:17</date>
+  <millis>1497274757348</millis>
+  <sequence>115</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:22</date>
+  <millis>1497274762814</millis>
+  <sequence>116</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:23</date>
+  <millis>1497274763219</millis>
+  <sequence>117</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:23</date>
+  <millis>1497274763640</millis>
+  <sequence>118</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:27</date>
+  <millis>1497274767917</millis>
+  <sequence>119</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:28</date>
+  <millis>1497274768120</millis>
+  <sequence>120</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:28</date>
+  <millis>1497274768307</millis>
+  <sequence>121</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:28</date>
+  <millis>1497274768516</millis>
+  <sequence>122</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:28</date>
+  <millis>1497274768957</millis>
+  <sequence>123</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:29</date>
+  <millis>1497274769172</millis>
+  <sequence>124</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:29</date>
+  <millis>1497274769350</millis>
+  <sequence>125</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:29</date>
+  <millis>1497274769518</millis>
+  <sequence>126</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:29</date>
+  <millis>1497274769721</millis>
+  <sequence>127</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:29</date>
+  <millis>1497274769909</millis>
+  <sequence>128</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:30</date>
+  <millis>1497274770086</millis>
+  <sequence>129</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:33</date>
+  <millis>1497274773069</millis>
+  <sequence>130</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:33</date>
+  <millis>1497274773554</millis>
+  <sequence>131</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:33</date>
+  <millis>1497274773757</millis>
+  <sequence>132</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:34</date>
+  <millis>1497274774007</millis>
+  <sequence>133</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:34</date>
+  <millis>1497274774210</millis>
+  <sequence>134</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:34</date>
+  <millis>1497274774391</millis>
+  <sequence>135</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:34</date>
+  <millis>1497274774625</millis>
+  <sequence>136</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:34</date>
+  <millis>1497274774860</millis>
+  <sequence>137</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:35</date>
+  <millis>1497274775070</millis>
+  <sequence>138</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:35</date>
+  <millis>1497274775265</millis>
+  <sequence>139</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:35</date>
+  <millis>1497274775453</millis>
+  <sequence>140</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:35</date>
+  <millis>1497274775649</millis>
+  <sequence>141</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:35</date>
+  <millis>1497274775868</millis>
+  <sequence>142</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:36</date>
+  <millis>1497274776054</millis>
+  <sequence>143</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:36</date>
+  <millis>1497274776288</millis>
+  <sequence>144</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:36</date>
+  <millis>1497274776484</millis>
+  <sequence>145</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:36</date>
+  <millis>1497274776690</millis>
+  <sequence>146</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:36</date>
+  <millis>1497274776893</millis>
+  <sequence>147</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:37</date>
+  <millis>1497274777117</millis>
+  <sequence>148</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:37</date>
+  <millis>1497274777320</millis>
+  <sequence>149</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:37</date>
+  <millis>1497274777523</millis>
+  <sequence>150</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:37</date>
+  <millis>1497274777711</millis>
+  <sequence>151</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:37</date>
+  <millis>1497274777929</millis>
+  <sequence>152</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:38</date>
+  <millis>1497274778120</millis>
+  <sequence>153</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:38</date>
+  <millis>1497274778291</millis>
+  <sequence>154</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:38</date>
+  <millis>1497274778489</millis>
+  <sequence>155</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:46</date>
+  <millis>1497274786030</millis>
+  <sequence>156</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:46</date>
+  <millis>1497274786202</millis>
+  <sequence>157</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:47</date>
+  <millis>1497274787354</millis>
+  <sequence>158</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:47</date>
+  <millis>1497274787542</millis>
+  <sequence>159</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:47</date>
+  <millis>1497274787760</millis>
+  <sequence>160</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:47</date>
+  <millis>1497274787948</millis>
+  <sequence>161</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:48</date>
+  <millis>1497274788120</millis>
+  <sequence>162</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:48</date>
+  <millis>1497274788323</millis>
+  <sequence>163</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:48</date>
+  <millis>1497274788516</millis>
+  <sequence>164</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:48</date>
+  <millis>1497274788704</millis>
+  <sequence>165</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:48</date>
+  <millis>1497274788891</millis>
+  <sequence>166</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:49</date>
+  <millis>1497274789066</millis>
+  <sequence>167</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:49</date>
+  <millis>1497274789257</millis>
+  <sequence>168</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:49</date>
+  <millis>1497274789454</millis>
+  <sequence>169</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:49</date>
+  <millis>1497274789611</millis>
+  <sequence>170</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:49</date>
+  <millis>1497274789814</millis>
+  <sequence>171</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:50</date>
+  <millis>1497274790704</millis>
+  <sequence>172</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:51</date>
+  <millis>1497274791214</millis>
+  <sequence>173</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:51</date>
+  <millis>1497274791834</millis>
+  <sequence>174</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:52</date>
+  <millis>1497274792037</millis>
+  <sequence>175</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:52</date>
+  <millis>1497274792292</millis>
+  <sequence>176</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:52</date>
+  <millis>1497274792610</millis>
+  <sequence>177</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:53</date>
+  <millis>1497274793097</millis>
+  <sequence>178</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:53</date>
+  <millis>1497274793316</millis>
+  <sequence>179</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:53</date>
+  <millis>1497274793521</millis>
+  <sequence>180</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:53</date>
+  <millis>1497274793708</millis>
+  <sequence>181</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:53</date>
+  <millis>1497274793901</millis>
+  <sequence>182</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:54</date>
+  <millis>1497274794090</millis>
+  <sequence>183</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:39:54</date>
+  <millis>1497274794267</millis>
+  <sequence>184</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:24</date>
+  <millis>1497274824881</millis>
+  <sequence>185</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:25</date>
+  <millis>1497274825398</millis>
+  <sequence>186</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:25</date>
+  <millis>1497274825648</millis>
+  <sequence>187</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:37</date>
+  <millis>1497274837449</millis>
+  <sequence>188</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:37</date>
+  <millis>1497274837699</millis>
+  <sequence>189</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:37</date>
+  <millis>1497274837887</millis>
+  <sequence>190</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:38</date>
+  <millis>1497274838080</millis>
+  <sequence>191</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:38</date>
+  <millis>1497274838274</millis>
+  <sequence>192</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:38</date>
+  <millis>1497274838438</millis>
+  <sequence>193</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:38</date>
+  <millis>1497274838613</millis>
+  <sequence>194</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:38</date>
+  <millis>1497274838816</millis>
+  <sequence>195</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:39</date>
+  <millis>1497274839004</millis>
+  <sequence>196</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:39</date>
+  <millis>1497274839160</millis>
+  <sequence>197</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:39</date>
+  <millis>1497274839356</millis>
+  <sequence>198</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:39</date>
+  <millis>1497274839559</millis>
+  <sequence>199</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:40:39</date>
+  <millis>1497274839720</millis>
+  <sequence>200</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:36</date>
+  <millis>1497274956239</millis>
+  <sequence>201</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:36</date>
+  <millis>1497274956438</millis>
+  <sequence>202</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:36</date>
+  <millis>1497274956650</millis>
+  <sequence>203</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:36</date>
+  <millis>1497274956882</millis>
+  <sequence>204</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:42</date>
+  <millis>1497274962229</millis>
+  <sequence>205</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>jssc.SerialPortException: Port name - COM17; Method name - setEventsMask(); Exception type - Can't set mask.</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:42</date>
+  <millis>1497274962229</millis>
+  <sequence>206</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Close port COM17 - unknown error.</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:42</date>
+  <millis>1497274962836</millis>
+  <sequence>207</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Serial port COM17 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:42</date>
+  <millis>1497274962836</millis>
+  <sequence>208</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:42</date>
+  <millis>1497274962836</millis>
+  <sequence>209</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open port COM17, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:42</date>
+  <millis>1497274962888</millis>
+  <sequence>210</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open port COM17 - Success.</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:42</date>
+  <millis>1497274962935</millis>
+  <sequence>211</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:43</date>
+  <millis>1497274963029</millis>
+  <sequence>212</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>28</thread>
+  <message>
+Communication with MCU established.</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:43</date>
+  <millis>1497274963029</millis>
+  <sequence>213</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>28</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:44</date>
+  <millis>1497274964531</millis>
+  <sequence>214</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:44</date>
+  <millis>1497274964772</millis>
+  <sequence>215</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:45</date>
+  <millis>1497274965131</millis>
+  <sequence>216</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:45</date>
+  <millis>1497274965354</millis>
+  <sequence>217</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:45</date>
+  <millis>1497274965526</millis>
+  <sequence>218</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:45</date>
+  <millis>1497274965776</millis>
+  <sequence>219</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:45</date>
+  <millis>1497274965995</millis>
+  <sequence>220</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T21:42:46</date>
+  <millis>1497274966213</millis>
+  <sequence>221</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:print(adc.read(0))&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-06-12T22:04:30</date>
+  <millis>1497276270740</millis>
+  <sequence>222</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
@@ -123,9 +2393,9 @@
   <message>FileTab cleared: Success.</message>
 </record>
 <record>
-  <date>2017-06-07T11:31:29</date>
-  <millis>1496806289500</millis>
-  <sequence>17</sequence>
+  <date>2017-06-12T22:04:30</date>
+  <millis>1497276270740</millis>
+  <sequence>223</sequence>
   <logger>ESPlorer.ESPlorer</logger>
   <level>INFO</level>
   <class>ESPlorer.ESPlorer</class>
