@@ -1,53 +1,53 @@
 ESP8266_MultiDownload_autostart1:0
 ESP8266_MultiDownload_baudrate1:5
-ESP8266_MultiDownload_com_port1:COM17
+ESP8266_MultiDownload_com_port1:COM6
 ESP8266_MultiDownload_autostart2:0
-ESP8266_MultiDownload_com_port2:
+ESP8266_MultiDownload_com_port2:COM18
 ESP8266_MultiDownload_baudrate2:5
 ESP8266_MultiDownload_autostart3:0
-ESP8266_MultiDownload_com_port3:COM20
+ESP8266_MultiDownload_com_port3:COM19
 ESP8266_MultiDownload_baudrate3:5
 ESP8266_MultiDownload_baudrate4:5
-ESP8266_MultiDownload_com_port4:COM21
+ESP8266_MultiDownload_com_port4:COM20
 ESP8266_MultiDownload_autostart4:0
-ESP8266_MultiDownload_baudrate5:1
-ESP8266_MultiDownload_com_port5:COM7
+ESP8266_MultiDownload_baudrate5:5
+ESP8266_MultiDownload_com_port5:
 ESP8266_MultiDownload_autostart5:0
 ESP8266_MultiDownload_com_port6:COM7
-ESP8266_MultiDownload_baudrate6:1
+ESP8266_MultiDownload_baudrate6:5
 ESP8266_MultiDownload_autostart6:0
 ESP8266_MultiDownload_com_port7:COM7
-ESP8266_MultiDownload_baudrate7:1
+ESP8266_MultiDownload_baudrate7:5
 ESP8266_MultiDownload_autostart7:0
 ESP8266_MultiDownload_autostart8:0
-ESP8266_MultiDownload_baudrate8:1
+ESP8266_MultiDownload_baudrate8:5
 ESP8266_MultiDownload_com_port8:COM7
-ESP8266_MultiDownload_path1#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\ESP LED Board\esp_light_mqtt.ino.bin;0x00000;
-ESP8266_MultiDownload_path0#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\ESP_relay\nodemcu\ESP Relay Board\R4\build\output_r4-sg.bin;0x00000;
+ESP8266_MultiDownload_path1#empty;;0x00000;
+ESP8266_MultiDownload_path0#empty;;0x00000;
 ESP8266_MultiDownload_path3#empty;;;
-ESP8266_MultiDownload_path2#selected;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\ESP Relay Board\arduino\relay_one.ino.bin;0x00000;
+ESP8266_MultiDownload_path2#selected;C:\Users\Administrator\Dropbox\≤‚ ‘\Esp8266 Firmware\ESP Relay Board\arduino\relay_one.ino.bin;0x00000;
 ESP8266_MultiDownload_path5#empty;;;
 ESP8266_MultiDownload_path4#empty;;;
 ESP8266_MultiDownload_path6#empty;;;
 ESP8266_MultiDownload_CRYSTAL:1
 ESP8266_MultiDownload_FLASHSIZE:4
 ESP8266_MultiDownload_SPICFGDIS:1
-ESP8266_MultiDownload_SPIMODE:0
+ESP8266_MultiDownload_SPIMODE:2
 ESP8266_MultiDownload_SPISPEED:0
 ESP8266_MultiDownload_SPIAUTOSET:0
-ESP8266_MultiDownload_LOCK_SETTINGS:0
+ESP8266_MultiDownload_LOCK_SETTINGS:1
 ESP8266_MultiDownload_EFUSE_MODE:1
 ESP8266_MultiDownload_EFUSE_ERR_HALT:1
 ESP8266_SPIDownload_baudrate1:0
-ESP8266_SPIDownload_com_port1:COM17
+ESP8266_SPIDownload_com_port1:COM3
 ESP8266_SPIDownload_autostart1:0
 ESP8266_SPIDownload_path6#empty;;;
-ESP8266_SPIDownload_path4#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\ESP Relay Board\arduino\relay_one.ino.bin;0x00000;
-ESP8266_SPIDownload_path5#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\ESP_relay\nodemcu\ESP Relay Board\R4\build\output_r4-mc.bin;0x00000;
-ESP8266_SPIDownload_path2#selected;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\AT\v1.3.0.2 AT Firmware.bin;0x00000;
-ESP8266_SPIDownload_path3#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\ESP LED Board\esp_light_mqtt.ino.bin;0x00000;
-ESP8266_SPIDownload_path0#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\blank_1MB.bin;0x00000;
-ESP8266_SPIDownload_path1#empty;C:\Users\hechao\Dropbox\ED_work\6-Code_Project\Esp8266 Firmware\blank_1MB.bin;0x10000;
+ESP8266_SPIDownload_path4#empty;D:\Downloads\Ka-Radio-master\ESP8266-Firmware\bin\blank.bin;0x3fe000;
+ESP8266_SPIDownload_path5#selected;C:\Users\Administrator\Dropbox\Code\Esp8266 Firmware\ESP Relay Board\arduino\relay_one.ino.bin;0x00000;
+ESP8266_SPIDownload_path2#empty;D:\Downloads\Ka-Radio-master\ESP8266-Firmware\bin\upgrade\user2.4096.new.4.bin;0x81000;
+ESP8266_SPIDownload_path3#empty;D:\Downloads\Ka-Radio-master\ESP8266-Firmware\bin\esp_init_data_default.bin;0x3FC000;
+ESP8266_SPIDownload_path0#empty;D:\Downloads\Ka-Radio-master\ESP8266-Firmware\bin\boot_v1.6.bin;0x0000;
+ESP8266_SPIDownload_path1#empty;D:\Downloads\Ka-Radio-master\ESP8266-Firmware\bin\upgrade\user1.4096.new.4.bin;0x1000;
 ESP8266_SPIDownload_SPIAUTOSET:0
 ESP8266_SPIDownload_SPISPEED:0
 ESP8266_SPIDownload_FLASHSIZE:4
