@@ -1,0 +1,11 @@
+# 1.2 version.
+* generate random number as topic, for example "ESP-123456"
+* move server to iot2.electrodragon.com
+* Blink LED <br>
+0.5s on/off when config  
+1s when connected to mqtt   
+full off when not connect to mqtt  
+* support format/reset, but will take 1-3 mintues, press btn2
+
+# Notice
+* If you flash any new firmware, please notice format spiffs, because it already format by our firmware.
