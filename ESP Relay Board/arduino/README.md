@@ -1,4 +1,4 @@
-# 1.2 version.
+# 1.2 version. （From 2017 Nov.）
 * generate random number as topic, for example "ESP-123456"
 * move server to iot2.electrodragon.com
 * Blink LED <br>
