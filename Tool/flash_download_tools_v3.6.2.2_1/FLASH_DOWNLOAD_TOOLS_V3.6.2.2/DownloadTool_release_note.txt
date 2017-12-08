@@ -1,0 +1,8 @@
+Vers: 3.6.2.2
+Time: 20171130
+Desc:
+	Bugs in version 3.6.2
+	1. Cannot erase ESP32-D2WD and ESP32-PICO
+	2. Cannot show flash and mac information when no bin file is selected
+	3. Cannot download 40Mhz ESP8266
+	These bugs are all fixed in version 3.6.2.2

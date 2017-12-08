@@ -1,11 +1,11 @@
 ESP8266_MultiDownload_autostart1:0
 ESP8266_MultiDownload_baudrate1:5
-ESP8266_MultiDownload_com_port1:COM18
+ESP8266_MultiDownload_com_port1:COM21
 ESP8266_MultiDownload_autostart2:0
-ESP8266_MultiDownload_com_port2:COM6
+ESP8266_MultiDownload_com_port2:COM22
 ESP8266_MultiDownload_baudrate2:5
 ESP8266_MultiDownload_autostart3:0
-ESP8266_MultiDownload_com_port3:
+ESP8266_MultiDownload_com_port3:COM23
 ESP8266_MultiDownload_baudrate3:5
 ESP8266_MultiDownload_baudrate4:5
 ESP8266_MultiDownload_com_port4:COM3
@@ -22,8 +22,8 @@ ESP8266_MultiDownload_autostart7:0
 ESP8266_MultiDownload_autostart8:0
 ESP8266_MultiDownload_baudrate8:5
 ESP8266_MultiDownload_com_port8:COM7
-ESP8266_MultiDownload_path1#selected;C:\Users\Administrator\Dropbox\≤‚ ‘\Esp8266 Firmware\ESP Relay Board\arduino\relay_1.0_12F.ino.bin;0x00000;
-ESP8266_MultiDownload_path0#empty;;0x00000;
+ESP8266_MultiDownload_path1#empty;C:\Users\Administrator\Dropbox\≤‚ ‘\Esp8266 Firmware\ESP Relay Board\arduino\relay_1.0_12F.ino.bin;0x00000;
+ESP8266_MultiDownload_path0#selected;C:\Users\Administrator\Dropbox\≤‚ ‘\Esp8266 Firmware\ESP Relay Board\arduino\relay_1.2_12S_4MB.ino.bin;0x00000;
 ESP8266_MultiDownload_path3#empty;C:\Users\Administrator\Dropbox\≤‚ ‘\Esp8266 Firmware\ESP LED Board\r2.bin;0x00000;
 ESP8266_MultiDownload_path2#empty;C:\Users\Administrator\Dropbox\≤‚ ‘\Esp8266 Firmware\ESP Relay Board\arduino\relay_1.1_12S.ino.bin;0x00000;
 ESP8266_MultiDownload_path5#empty;;;
@@ -38,8 +38,8 @@ ESP8266_MultiDownload_SPIAUTOSET:0
 ESP8266_MultiDownload_LOCK_SETTINGS:0
 ESP8266_MultiDownload_EFUSE_MODE:1
 ESP8266_MultiDownload_EFUSE_ERR_HALT:1
-ESP8266_SPIDownload_baudrate1:5
-ESP8266_SPIDownload_com_port1:COM6
+ESP8266_SPIDownload_baudrate1:0
+ESP8266_SPIDownload_com_port1:COM4
 ESP8266_SPIDownload_autostart1:0
 ESP8266_SPIDownload_path6#empty;;;
 ESP8266_SPIDownload_path4#empty;D:\Downloads\Ka-Radio-master\ESP8266-Firmware\bin\blank.bin;0x3fe000;
