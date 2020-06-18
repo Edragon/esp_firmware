@@ -1,0 +1,3 @@
+
+.pio/build/custom_ESP32_4M316k/firmware.elf:     file format elf32-little
+

@@ -1,3 +1,0 @@
-
-.pio/build/test_ESP32-wrover-kit_4M316k/firmware.elf:     file format elf32-little
-
