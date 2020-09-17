@@ -1,6 +1,6 @@
 ## Demo code  
 ## Flash tool
-* ESP Download tool 3.6
+* ESP Download tool 3.6.5
 
 ## Firmware
 * AT firmware standard
