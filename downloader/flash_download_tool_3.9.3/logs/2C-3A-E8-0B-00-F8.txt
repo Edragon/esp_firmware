@@ -1,0 +1,58 @@
+*************************** START ****************************
+START TIME: 202304171748
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: f84e0000
+0x3ff00054: 02000b00
+0x3ff00058: a800b000
+0x3ff0005c: 002c3ae8
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 168
+target crc val: 168
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 78
+target crc val: 78
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:F84E0000
+    REG1:02000B00
+    REG2:a800b000
+    REG3:002C3AE8
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 2c 3a e8 0b 00 f8CUSTOM_ID: 0A 80 00 00 00 04 E0 00 
+MAC AP : 2E-3A-E8-0B-00-F8
+MAC STA: 2C-3A-E8-0B-00-F8
+get mac res: 1
+get flash id : 0x0016301c
+manufacturer_id: 0x1c
+device_id: 0x3016
+Wrote 351136 bytes (247840 compressed) at 0x00000000 in 3.4 seconds (effective 834.9 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 10 s
+Download result: PASS
+*************************** END ****************************
+

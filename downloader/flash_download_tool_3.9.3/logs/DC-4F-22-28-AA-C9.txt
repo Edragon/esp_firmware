@@ -1,0 +1,122 @@
+*************************** START ****************************
+START TIME: 202305221758
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c9810000
+0x3ff00054: 020028aa
+0x3ff00058: ac00b000
+0x3ff0005c: 00dc4f22
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 172
+target crc val: 172
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 129
+target crc val: 129
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C9810000
+    REG1:020028AA
+    REG2:ac00b000
+    REG3:00DC4F22
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ dc 4f 22 28 aa c9CUSTOM_ID: 0A C0 00 00 00 08 10 00 
+MAC AP : DE-4F-22-28-AA-C9
+MAC STA: DC-4F-22-28-AA-C9
+get mac res: 1
+get flash id : 0x001640ef
+manufacturer_id: 0xef
+device_id: 0x4016
+Wrote 3856 bytes (2763 compressed) at 0x00000000 in 0.3 seconds (effective 101.5 kbit/s)...
+Hash of data verified.Wrote 330756 bytes (244619 compressed) at 0x00001000 in 21.7 seconds (effective 122.0 kbit/s)...
+Hash of data verified.Wrote 128 bytes (75 compressed) at 0x003fc000 in 0.1 seconds (effective 20.2 kbit/s)...
+Hash of data verified.Wrote 4096 bytes (26 compressed) at 0x003fe000 in 0.1 seconds (effective 628.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 24 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202305221758
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c9810000
+0x3ff00054: 020028aa
+0x3ff00058: ac00b000
+0x3ff0005c: 00dc4f22
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 172
+target crc val: 172
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 129
+target crc val: 129
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C9810000
+    REG1:020028AA
+    REG2:ac00b000
+    REG3:00DC4F22
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ dc 4f 22 28 aa c9CUSTOM_ID: 0A C0 00 00 00 08 10 00 
+MAC AP : DE-4F-22-28-AA-C9
+MAC STA: DC-4F-22-28-AA-C9
+get mac res: 1
+get flash id : 0x001640ef
+manufacturer_id: 0xef
+device_id: 0x4016
+Wrote 3856 bytes (2763 compressed) at 0x00000000 in 0.1 seconds (effective 387.5 kbit/s)...
+Hash of data verified.Wrote 330756 bytes (244619 compressed) at 0x00001000 in 3.9 seconds (effective 686.9 kbit/s)...
+Hash of data verified.Wrote 128 bytes (75 compressed) at 0x003fc000 in 0.0 seconds (effective 22.4 kbit/s)...
+Hash of data verified.Wrote 4096 bytes (26 compressed) at 0x003fe000 in 0.1 seconds (effective 650.0 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
